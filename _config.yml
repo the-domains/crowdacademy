@@ -1,0 +1,28 @@
+name: CrowdAcademy
+favicon: null
+layout_spectrum: 0.914959997870028
+typography_spectrum: 0.8522220652084798
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8460892036091536
+  lightness: 0.7414173826109618
+  saturation: 0.008078987011685967
+  rhythmicContrast: 0.7045460965018719
+purpose: []
